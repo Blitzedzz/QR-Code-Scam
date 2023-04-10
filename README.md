@@ -1,4 +1,4 @@
-[![token logger video](https://i.imgur.com/AgWzkGt.png)](https://youtu.be/RpUv6K3UGYI)
+
 
 ## Features
 
